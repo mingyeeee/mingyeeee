@@ -8,6 +8,7 @@ My name is Mingye Chen. I'm a high school senior who loves robotics and embedded
 - ⚡ Fun fact: I mountain bike, I've crashed into too many trees to count on both hands🌳🚵🏻
 
 Recently Completed Projects
+- [Augmented Reality Educational Tool](https://github.com/mingyeeee/RUhacks2021)
 - [IoT Sanitiation Stand for Small Buisnesses](https://github.com/Mershab99/uOttaHack4)
 - [Github Activity LED Dashboard](https://github.com/mingyeeee/GithubActivityLedDashboard)
 - [Inventory Tracking Alexa Skill for Meals on Wheels](https://github.com/mingyeeee/ToryTrackerAlexa)
