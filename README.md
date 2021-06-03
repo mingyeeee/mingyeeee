@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mingye Chen. I'm a high school senior who loves robotics and embedded software. 
+My name is Mingye Chen. I'm an incoming UOttawa computer engineering student who interested in machine learning and embedded systems. 
 
 - 🔭 I’m currently working on [Robot Quadruped](https://github.com/mingyeeee/spotmicro-mingye)
 - 🌱 I’m currently learning [DS/Algos](https://github.com/mingyeeee/DS-and-Algos) and [TinyML](https://github.com/mingyeeee/Teensy4.0-TF-lite-micro)
