@@ -15,4 +15,4 @@ Recent Projects
 - [Inventory Tracking Alexa Skill for Meals on Wheels](https://github.com/mingyeeee/ToryTrackerAlexa)
 
 Projects strictly for fun 
-- [Hardly Useful Hardware Hacks](https://github.com/mingyeeee/hardly-useful-hardware-hacks)
+- [Hardly Useful Programming Hacks](https://github.com/mingyeeee/hardly-useful-programming-hacks)
